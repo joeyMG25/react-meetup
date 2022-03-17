@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-metup/static/css/main.580b62c2.css",
+    "main.js": "/react-metup/static/js/main.064739d5.js",
+    "index.html": "/react-metup/index.html",
+    "main.580b62c2.css.map": "/react-metup/static/css/main.580b62c2.css.map",
+    "main.064739d5.js.map": "/react-metup/static/js/main.064739d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.580b62c2.css",
+    "static/js/main.064739d5.js"
+  ]
+}
